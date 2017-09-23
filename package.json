@@ -1,0 +1,29 @@
+{
+  "name": "jazzcat",
+  "version": "0.0.0",
+  "description": "Like cat, but for JavaScript. Creates sourcemaps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./test.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benchristel/jazzcat.git"
+  },
+  "keywords": [
+    "cat",
+    "source",
+    "maps",
+    "map",
+    "concat",
+    "concatenate",
+    "js",
+    "javascript"
+  ],
+  "author": "Ben Christel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benchristel/jazzcat/issues"
+  },
+  "homepage": "https://github.com/benchristel/jazzcat#readme"
+}
