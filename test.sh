@@ -15,7 +15,7 @@ EOF
 $JAZZCAT foo.js > out.js
 
 if ! [ 4 -eq "$(wc -l out.js | awk '{print $1}')" ]; then
-  echo "FAILED: out.js should have 3 lines"
+  echo "FAILED: out.js should have 4 lines"
   exit 1
 fi
 
